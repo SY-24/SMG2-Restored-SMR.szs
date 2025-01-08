@@ -1,8 +1,5 @@
 # SMG2-Restored-SMR.szs
 This mod restores sounds from SMG which were dummied out in SMG2.<br>Every section below lists the Sound Labels you can/should put into your Galaxy's ``UseResource/sound_common.bcsv`` and the AW file you need to lookout for in the Dolphin File Log to check if the sounds were loaded properly.
-## Future plans (v3.0?)
-- Maybe add (instead of replacing) sounds for [Evanbowl's](https://github.com/Evanbowl) [Blue Coins](https://github.com/Lord-G-INC/Modular-PTD/tree/f528319c152605fd67db96d096f8b5ad8f13e427/PTD/BlueCoinSystem)
-- Open for requests
 ## Standalone release (v2.0)
 This version restored voice clips for the Luigi and Rosalina NPCs. Strangely Rosalina's Sound Labels were not changed in SMG2, however some of Luigi's dummied-out Sound Labels were renamed to ``SE_SV_DUMMY_XXX``, where XXX is the index of the sound inside the SUPPORTER_VOICE category.
 ### Luigi
