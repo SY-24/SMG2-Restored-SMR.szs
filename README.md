@@ -38,6 +38,7 @@ For [Super Hackio's](https://github.com/SuperHackio) [GLE-V4 preview video](http
 | Sound Label    | AW file       |
 |----------------|---------------|
 | SE_PM_DUMMY_02 | B08mahit_0.aw |
+> _Note: ``B08mahit_0.aw`` exists as unused file on all releases of SMG2 and thus doesn't need to be provided._
 ## First release (v1.0)
 Initially this mod was not planned to be developed any further than restoring Kingfin's and Bonefin's sounds for [Super Hackio's](https://github.com/SuperHackio) [Kingfin SMG2 port](https://github.com/SuperHackio/SMG2_SkeletalFishBossReturns).
 ### Kingfin
@@ -56,6 +57,7 @@ Initially this mod was not planned to be developed any further than restoring Ki
 | SE_BM_SKL_BOSS_BODY_SOLID     | B83kawa_0.aw |
 | SE_BM_SKL_BOSS_EXPLODE        | B83kawa_0.aw |
 | SE_BM_SKL_BOSS_EXPLODE_2      | B83kawa_0.aw |
+> _Note: ``B83kawa_0.aw`` exists as unused file on all releases of SMG2 and thus doesn't need to be provided._
 ### Bonefin
 | Sound Label                    | AW file      |
 |--------------------------------|--------------|
@@ -67,3 +69,4 @@ Initially this mod was not planned to be developed any further than restoring Ki
 | SE_BM_SKL_GUARD_EXPLODE        | B83kawa_0.aw |
 | SE_BM_SKL_GUARD_COME_FRONT     | B83kawa_0.aw |
 | SE_BM_LV_SKL_GUARD_ALARM       | B83kawa_0.aw |
+> _Note: ``B83kawa_0.aw`` exists as unused file on all releases of SMG2 and thus doesn't need to be provided._
