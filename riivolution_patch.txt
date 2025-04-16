@@ -21,5 +21,6 @@
 		<memory offset="0x8072F594" value="01600000" original="00DB0000" /> <!-- K -->
 		<memory offset="0x807309F4" value="01600000" original="00DB0000" /> <!-- W -->
 
-		<!-- MultiBgmInfo size allocation -->
-		<memory offset="0x800838F0" value="38600EC0" /> <!-- 0x20 per entry, 118 entries total -->
+		<!-- Filesize allocation -->
+		<memory offset="0x800838F0" value="38600EC0" /> <!-- MultiBgmInfo; 0x20 per entry, 118 entries total -->
+		<!-- BgmParam has no memory allocation as it directly overwrites bytes from SMR.szs -->
