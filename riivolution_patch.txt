@@ -8,9 +8,9 @@
 
 		<!-- Increase Audio Heap -->
 		<memory offset="0x804BCE7C" value="3C600023" original="3C600020" /> <!-- E, J, P -->
-		<memory offset="0x804BCE7C" value="3C600023" original="3C600020" /> <!-- K, W -->
+		<memory offset="0x804BCEEC" value="3C600023" original="3C600020" /> <!-- K, W -->
 		<memory offset="0x804BCDD4" value="3FC30160" original="3FC300DB" /> <!-- E, J, P -->
-		<memory offset="0x804BCDD4" value="3FC30160" original="3FC300DB" /> <!-- K, W -->
+		<memory offset="0x804BCE44" value="3FC30160" original="3FC300DB" /> <!-- K, W -->
 		<memory offset="0x804B6574" value="3C600160" original="3C6000DB" /> <!-- E, J, P -->
 		<memory offset="0x804B65E4" value="3C600160" original="3C6000DB" /> <!-- K, W -->
 		<memory offset="0x807D73D4" value="01600000" original="00DB0000" /> <!-- E -->
